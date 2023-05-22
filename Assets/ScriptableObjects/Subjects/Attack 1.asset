@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e429e4bd9af464bb3d580252c0942f, type: 3}
+  m_Name: Attack 1
+  m_EditorClassIdentifier: 
+  id: A001
+  attack: 20
+  attackRange: 1
+  attackRate: 2.2
+  defense: 5
+  maxHealth: 30
+  moveSpeed: 4
+  sprite: {fileID: 1759003573, guid: 8be4c356e2358f844a7dff6d8d8445fa, type: 3}
+  icon: {fileID: 21300000, guid: e7c3c13d544bb5f468cf1e9398b34af3, type: 3}
+  role: 0
+  rarity: 0
+  creditCost: 5
+  energyChargeRate: 2
+  buildCooldown: 20
